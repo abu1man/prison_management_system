@@ -76,7 +76,7 @@
           <tr>
             <td colspan='3' align='center' bgcolor='#FF0000' height='1'>
 					&copy; <strong>
-                &nbsp;DEVELOPED BY ADEMOLA SAMUEL ADENIYI HNDCS/17/007</strong></td>
+                &nbsp;DEVELOPED BY FCP/CSC/18/ALPHAGROUP </strong></td>
           </tr>
 	</table>
 </body>
